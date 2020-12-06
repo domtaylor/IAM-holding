@@ -1,6 +1,7 @@
 {
   "name": "create-react-app",
   "version": "0.1.0",
+  "homepage": "https://domtaylor.github.io/IAM-holding/",
   "private": true,
   "dependencies": {
     "lottie-web": "^5.6.8",
