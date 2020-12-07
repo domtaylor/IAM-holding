@@ -9,7 +9,7 @@ const LottieComponent = (props) => {
 	const defaultOptions = {
 		loop: true,
 		autoplay: true,
-		path: props.url,
+		animationData: animationData,
 		rendererSettings: {
 			preserveAspectRatio: 'xMidYMid slice',
 		},
