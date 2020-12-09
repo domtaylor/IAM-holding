@@ -1,6 +1,6 @@
 body {
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: black;
 }
 main {
   align-content: center;
@@ -20,6 +20,12 @@ main {
   display: block;
   position: relative;
   margin: -5rem;
+}
+.logo {
+  display: block;
+  width: 100%;
+  height: auto;
+  z-index: 1;
 }
 h1 {
   font-size: 45px;
